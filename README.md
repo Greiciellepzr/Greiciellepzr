@@ -2,6 +2,7 @@
 
 - 🔭 Apaixonada por programação.
 - 🌱 Estudante de programação.
+- 😎 Desenvolvendo front-end;
 
 <div align="center">
   <a href="https://github.com/greiciellepzr">
